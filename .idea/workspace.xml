@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfbe328c-857d-459d-9b33-43049454de9e" name="Default" comment="" />
+    <list default="true" id="bfbe328c-857d-459d-9b33-43049454de9e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/absolute_values_sum_minimization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alphabetic_shift.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array_max_consecutive_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chess_board_cell_color.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circle_of_numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deposit_profit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/different_symbols_naive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extract_each_kth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first_digit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strings_rearrangement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_absolute_values_sum_minimization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_alphabetic_shift.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_array_max_consecutive_sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_chess_board_cell_color.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_circle_of_numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_deposit_profit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_different_symbols_naive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_extract_each_kth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_first_digit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_strings_rearrangement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_variable_name.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/variable_name.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/austint.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/austint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,43 +36,54 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_box_blur_py.coverage" NAME="Unittests in test_box_blur.py Coverage Results" MODIFIED="1496428219164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_alternating_sums_py.coverage" NAME="Unittests in test_alternating_sums.py Coverage Results" MODIFIED="1496340656022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_replace_py.coverage" NAME="Unittests in test_array_replace.py Coverage Results" MODIFIED="1496437599273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_first_digit_py.coverage" NAME="Unittests in test_first_digit.py Coverage Results" MODIFIED="1498071184924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_palindrome_rearranging_py.coverage" NAME="Unittests in test_palindrome_rearranging.py Coverage Results" MODIFIED="1496353727111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_are_equally_strong_py.coverage" NAME="Unittests in test_are_equally_strong.py Coverage Results" MODIFIED="1496355922432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_alphabetic_shift_py.coverage" NAME="Unittests in test_alphabetic_shift.py Coverage Results" MODIFIED="1497880301666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$all_longest_strings.coverage" NAME="all_longest_strings Coverage Results" MODIFIED="1496267147780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_are_similar_py.coverage" NAME="Unittests in test_are_similar.py Coverage Results" MODIFIED="1496345650419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$reverse_parentheses.coverage" NAME="reverse_parentheses Coverage Results" MODIFIED="1496335152456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_change_py.coverage" NAME="Unittests in test_array_change.py Coverage Results" MODIFIED="1496351775611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$commonCharacterCount.coverage" NAME="commonCharacterCount Coverage Results" MODIFIED="1496267976713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_maximal_adjacent_difference_py.coverage" NAME="Unittests in test_array_maximal_adjacent_difference.py Coverage Results" MODIFIED="1496414396749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_minesweeper_py.coverage" NAME="Unittests in test_minesweeper.py Coverage Results" MODIFIED="1496432769258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$is_lucky.coverage" NAME="is_lucky Coverage Results" MODIFIED="1496268854310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_extract_each_kth_py.coverage" NAME="Unittests in test_extract_each_kth.py Coverage Results" MODIFIED="1498070417475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$matric_elements_sum.coverage" NAME="matric_elements_sum Coverage Results" MODIFIED="1496266025022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_is_IPv4_address_py.coverage" NAME="Unittests in test_is_IPv4_address.py Coverage Results" MODIFIED="1496416286453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_add_border_py.coverage" NAME="Unittests in test_add_border.py Coverage Results" MODIFIED="1496342199507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_reverse_parentheses_py.coverage" NAME="Unittests in test_reverse_parentheses.py Coverage Results" MODIFIED="1496338851905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/code_fights$sort_by_height.coverage" NAME="sort_by_height Coverage Results" MODIFIED="1496270340203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_absolute_values_sum_minimization_py.coverage" NAME="Unittests in test_absolute_values_sum_minimization.py Coverage Results" MODIFIED="1497901713865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_avoid_obstacles_py.coverage" NAME="Unittests in test_avoid_obstacles.py Coverage Results" MODIFIED="1496418822396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_circle_of_numbers_py.coverage" NAME="Unittests in test_circle_of_numbers.py Coverage Results" MODIFIED="1497888668631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_alternating_sums_py.coverage" NAME="Unittests in test_alternating_sums.py Coverage Results" MODIFIED="1496340656022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_replace_py.coverage" NAME="Unittests in test_array_replace.py Coverage Results" MODIFIED="1496437599273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_variable_name_py.coverage" NAME="Unittests in test_variable_name.py Coverage Results" MODIFIED="1497879286824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_are_equally_strong_py.coverage" NAME="Unittests in test_are_equally_strong.py Coverage Results" MODIFIED="1496355922432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_strings_rearrangement_py.coverage" NAME="Unittests in test_strings_rearrangement.py Coverage Results" MODIFIED="1498067859360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$reverse_parentheses.coverage" NAME="reverse_parentheses Coverage Results" MODIFIED="1496335152456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_change_py.coverage" NAME="Unittests in test_array_change.py Coverage Results" MODIFIED="1496351775611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$is_lucky.coverage" NAME="is_lucky Coverage Results" MODIFIED="1496268854310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_is_IPv4_address_py.coverage" NAME="Unittests in test_is_IPv4_address.py Coverage Results" MODIFIED="1496416286453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_deposit_profit_py.coverage" NAME="Unittests in test_deposit_profit.py Coverage Results" MODIFIED="1497890868154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_array_max_consecutive_sum_py.coverage" NAME="Unittests in test_array_max_consecutive_sum.py Coverage Results" MODIFIED="1498145654982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$sort_by_height.coverage" NAME="sort_by_height Coverage Results" MODIFIED="1496270340203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_chess_board_cell_color_py.coverage" NAME="Unittests in test_chess_board_cell_color.py Coverage Results" MODIFIED="1497882982463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_fights$Unittests_in_test_different_symbols_naive_py.coverage" NAME="Unittests in test_different_symbols_naive.py Coverage Results" MODIFIED="1498071894785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="minesweeper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minesweeper.py">
+      <file leaf-file-name="different_symbols_naive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/different_symbols_naive.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="70" />
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_minesweeper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_minesweeper.py">
+      <file leaf-file-name="test_different_symbols_naive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_different_symbols_naive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -55,21 +91,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_replace.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array_replace.py">
+      <file leaf-file-name="array_max_consecutive_sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_max_consecutive_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_array_replace.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_array_replace.py">
+      <file leaf-file-name="test_array_max_consecutive_sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_array_max_consecutive_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="110">
+              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -87,12 +123,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/matric_elements_sum.py" />
-        <option value="$PROJECT_DIR$/all_longest_strings.py" />
-        <option value="$PROJECT_DIR$/commonCharacterCount.py" />
         <option value="$PROJECT_DIR$/is_lucky.py" />
         <option value="$PROJECT_DIR$/sort_by_height.py" />
         <option value="$PROJECT_DIR$/reverse_parentheses.py" />
@@ -122,6 +158,28 @@
         <option value="$PROJECT_DIR$/minesweeper.py" />
         <option value="$PROJECT_DIR$/array_replace.py" />
         <option value="$PROJECT_DIR$/test_array_replace.py" />
+        <option value="$PROJECT_DIR$/variable_name.py" />
+        <option value="$PROJECT_DIR$/test_variable_name.py" />
+        <option value="$PROJECT_DIR$/test_alphabetic_shift.py" />
+        <option value="$PROJECT_DIR$/alphabetic_shift.py" />
+        <option value="$PROJECT_DIR$/chess_board_cell_color.py" />
+        <option value="$PROJECT_DIR$/test_chess_board_cell_color.py" />
+        <option value="$PROJECT_DIR$/circle_of_numbers.py" />
+        <option value="$PROJECT_DIR$/test_circle_of_numbers.py" />
+        <option value="$PROJECT_DIR$/deposit_profit.py" />
+        <option value="$PROJECT_DIR$/test_deposit_profit.py" />
+        <option value="$PROJECT_DIR$/test_absolute_values_sum_minimization.py" />
+        <option value="$PROJECT_DIR$/absolute_values_sum_minimization.py" />
+        <option value="$PROJECT_DIR$/test_strings_rearrangement.py" />
+        <option value="$PROJECT_DIR$/strings_rearrangement.py" />
+        <option value="$PROJECT_DIR$/test_extract_each_kth.py" />
+        <option value="$PROJECT_DIR$/extract_each_kth.py" />
+        <option value="$PROJECT_DIR$/first_digit.py" />
+        <option value="$PROJECT_DIR$/test_first_digit.py" />
+        <option value="$PROJECT_DIR$/test_different_symbols_naive.py" />
+        <option value="$PROJECT_DIR$/different_symbols_naive.py" />
+        <option value="$PROJECT_DIR$/test_array_max_consecutive_sum.py" />
+        <option value="$PROJECT_DIR$/array_max_consecutive_sum.py" />
       </list>
     </option>
   </component>
@@ -136,6 +194,9 @@
     <option name="y" value="354" />
     <option name="width" value="1936" />
     <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -152,6 +213,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,8 +229,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,8 +247,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_array_replace.py">
-    <configuration default="false" name="Unittests in test_is_IPv4_address.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_array_max_consecutive_sum.py">
+    <configuration default="false" name="Unittests in test_strings_rearrangement.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -199,11 +260,11 @@
       <module name="code_fights" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_is_IPv4_address.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_strings_rearrangement.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_avoid_obstacles.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in test_extract_each_kth.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -215,11 +276,11 @@
       <module name="code_fights" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_avoid_obstacles.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_extract_each_kth.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_box_blur.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in test_first_digit.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -231,11 +292,11 @@
       <module name="code_fights" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_box_blur.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_first_digit.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_minesweeper.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in test_different_symbols_naive.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -247,11 +308,11 @@
       <module name="code_fights" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_minesweeper.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_different_symbols_naive.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_array_replace.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in test_array_max_consecutive_sum.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -263,7 +324,7 @@
       <module name="code_fights" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_array_replace.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_array_max_consecutive_sum.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
@@ -416,19 +477,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_is_IPv4_address.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_avoid_obstacles.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_box_blur.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_minesweeper.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_array_replace.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_strings_rearrangement.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_extract_each_kth.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_first_digit.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_different_symbols_naive.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_array_max_consecutive_sum.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_array_replace.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_minesweeper.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_box_blur.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_avoid_obstacles.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_is_IPv4_address.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_array_max_consecutive_sum.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_different_symbols_naive.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_first_digit.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_extract_each_kth.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_strings_rearrangement.py" />
       </list>
     </recent_temporary>
   </component>
@@ -446,52 +507,52 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_are_equally_strong_py - 2017.06.01 at 18h 25m 22s.xml">
-      <configuration name="Unittests in test_are_equally_strong.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 23m 43s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_array_maximal_adjacent_difference_py - 2017.06.02 at 10h 39m 57s.xml">
-      <configuration name="Unittests in test_array_maximal_adjacent_difference.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 26m 27s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_array_replace_py - 2017.06.02 at 17h 04m 44s.xml">
-      <configuration name="Unittests in test_array_replace.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 28m 37s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_array_replace_py - 2017.06.02 at 17h 06m 39s.xml">
-      <configuration name="Unittests in test_array_replace.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 29m 08s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_avoid_obstacles_py - 2017.06.02 at 11h 53m 42s.xml">
-      <configuration name="Unittests in test_avoid_obstacles.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 30m 00s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_box_blur_py - 2017.06.02 at 14h 11m 20s.xml">
-      <configuration name="Unittests in test_box_blur.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 32m 17s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_box_blur_py - 2017.06.02 at 14h 30m 19s.xml">
-      <configuration name="Unittests in test_box_blur.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 32m 55s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_is_IPv4_address_py - 2017.06.02 at 11h 11m 26s.xml">
-      <configuration name="Unittests in test_is_IPv4_address.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 33m 40s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_minesweeper_py - 2017.06.02 at 15h 46m 09s.xml">
-      <configuration name="Unittests in test_minesweeper.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 34m 07s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_palindrome_rearranging_py - 2017.06.01 at 17h 48m 47s.xml">
-      <configuration name="Unittests in test_palindrome_rearranging.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_array_max_consecutive_sum_py - 2017.06.22 at 11h 34m 15s.xml">
+      <configuration name="Unittests in test_array_max_consecutive_sum.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="354" width="1936" height="1042" extended-state="6" />
+    <frame x="2552" y="354" width="1936" height="1042" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -513,75 +574,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/matric_elements_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all_longest_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_character_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_lucky.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort_by_height.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reverse_parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all_longest_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_lucky.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort_by_height.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -713,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,9 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -783,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,17 +746,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="94" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_array_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_minesweeper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -811,25 +774,168 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array_replace.py">
+    <entry file="file://$PROJECT_DIR$/test_alphabetic_shift.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabetic_shift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_variable_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variable_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chess_board_cell_color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_chess_board_cell_color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle_of_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_circle_of_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deposit_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_deposit_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/absolute_values_sum_minimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_absolute_values_sum_minimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strings_rearrangement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_strings_rearrangement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_each_kth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_extract_each_kth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_digit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_first_digit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/different_symbols_naive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_array_replace.py">
+    <entry file="file://$PROJECT_DIR$/test_different_symbols_naive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="418">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_array_max_consecutive_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_max_consecutive_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
